@@ -2,7 +2,7 @@
 
 > 前端于我而言，是理性与感性的完美结合，逻辑的精密搭配设计的笃定，诠释一名优秀工程师的必备品质。
 
-![image](./img/mym.png)
+![image](./img/my.png)
 
 ## 基本信息
 - 姓名：孙兵见
@@ -51,6 +51,8 @@
 
 - 一个在线音乐播放器，利用开放音乐API，可在线播放音乐，进行播放、暂停、下一曲、调节音量、跳转播放进度等操作，还可以将当前音乐添加到本地的“喜爱音乐”列表，也可切换播放频道，在播放音乐时歌词根据播放进度自动滚动。
 
+- 实现方式：运用原生JS，实现歌词滚动，单曲循环，下一首等功能；JQuery Ajax的Jsonp获取数据，根据接口数据将歌词的时间做间隔，歌词滚动；通过歌曲长度的百分比来对歌曲进行快进；歌曲时间转格式；原生CSS写基本样式,支持移动端。
+
 - 技术栈： 使用 HTML5、jQuery 实现 FM 应用，利用 Ajax 技术通过API请求数据。
 
 --- 
@@ -65,7 +67,7 @@
 
 - ToDoList是一个轻量级单页在线待办事项管理应用，支持注册，支持增删改查，云同步，视图切换，事项分类等功能。采用最新技术生态，ES6/ES7语法，追求最佳实践。
 
-- 部署： LeanCloud + Node + Express
+-实现方式：将组件逐一细分，尽量做到每一块都是一个独立的组建，方便日后修改，将状态放在顶层APP，通过props分发给子组件，通过state来管理数据状态，在渲染时，通过过滤筛选函数，把todoitem筛选然后渲染到页面；通过路由实现单页面的路由跳转，最后将账号密码部署到LeanCloud,并参考文档，增添邮箱找回密码。
 
 - 技术栈： 整个应用基于 React 框架和 LeanCloud搭建，用到了原生JavaScript和 ES6 等相关技术。
 
@@ -80,7 +82,7 @@
 - [Github源码](https://github.com/Risingsbj/requireJS-webpack-sample)
 
 - 这个项目是对组件封装以及代码打包的实践.
-- 主要组件包括：轮播、Tab跟踪、AJAX封装、JSONP封装、无限加载、懒加载、回到顶部。对于新闻无限加载部分使用过自己封装的瀑布流插件，由于会产生白边，放弃使用。由于涉及较多dom操作，选择使用jQuery提高开发效率。
+- 实现方式：组件包括轮播、Tab跟踪、AJAX封装、JSONP封装、无限加载、懒加载、回到顶部。。由于涉及较多dom操作，选择使用jQuery提高开发效率。
 - 整体页面使用webpack打包，也使用了requireJS作为对比，理解CMD&AMD差异。
 - **查看更多封装组件和demo：** [我是链接](https://github.com/Risingsbj/Learning-box)
 
@@ -93,6 +95,8 @@
 
 - [Github源码](https://github.com/Risingsbj/weather-hunger)
 
+- [npm](https://www.npmjs.com/package/weather-hunger)
+
 - 简单介绍： 他是一个开源实用node命令行工具。
 
 - 用npm全局安装后可以输入weather或weather+地名，查询用户当前所在城市的天气。
@@ -103,7 +107,9 @@
 
 - [Github源码](https://github.com/Risingsbj/funny-robotr)
 
-- 简单介绍： 一个有趣的聊天机器人<。
+- [npm](https://www.npmjs.com/package/funny-robot)
+
+- 简单介绍： 一个有趣的聊天机器人。
 
 - 使用nodejs官方readline模块和http模块进行命令行交互，结合 [图灵api](http://wap.tuling123.com/help/h_cent_webapi.jhtml?nav=doc)实现的一个有趣的机器人，发布到npm。
 

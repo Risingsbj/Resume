@@ -91,7 +91,7 @@
 
 - [npm](https://www.npmjs.com/package/weather-hunger)
 
-- 简单介绍： 他是一个开源实用node命令行工具。
+- 简单介绍： 它是一个实用的node命令行工具。
 
 - 用npm全局安装后可以输入weather或weather+地名，查询用户当前所在城市的天气。
 

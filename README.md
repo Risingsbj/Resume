@@ -99,7 +99,7 @@
 
 ![image](./img/funny-robot.png)
 
-- [Github源码](https://github.com/Risingsbj/funny-robotr)
+- [Github源码](https://github.com/Risingsbj/funny-robot)
 
 - [npm](https://www.npmjs.com/package/funny-robot)
 

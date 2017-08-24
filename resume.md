@@ -1,121 +1,119 @@
-﻿# 我的简历
-## 个人信息
-> 学历：本科 2017应届
+# 个人简历
 
-> 年龄：22
+- 姓名：孙兵见
+- 年龄：22 
+- 手机：18175388665
+- Email：243281121@qq.com
+- QQ：243281121
+- 微信： Rising-sun2016
 
-> 电话： 15669602192
+## 基本信息
 
-> 邮箱： 632068012@qq.com
+ - 学历:本科 
+ - 期望职位：前端工程师
+ - 期望薪资：8k~12k
+ - 期望城市：北京
+ - 前端经验：1.5年
+ - Github：https://github.com/Risingsbj
+ - [个人博客](http://www.jianshu.com/u/0135bff4a7eb)
 
-> 求职意向： 前端工程师
+## 技能
+- 熟练掌握HTML(5)、常用CSS(3)和常见的布局。具有 **平均水准之上** 的审美，追求设计的优雅。
 
-> github地址：https://github.com/shaozhiyuan
+- 熟练掌握原生Javascript，掌握重要概念如： **原型**， **闭包**， **作用域链**， **面向对象**， **异步流程控制**等。能够根据面向对象思想利用JS/jQuery **封装** 常用插件。 熟练使用 **ES6及ES7** 部分新特性。
 
-> 简书博客地址：http://www.jianshu.com/u/124990b11595
+- 熟悉React框架及相关流行库的使用，**理解重要概念**如：生命周期，异步更新，性能优化，虚拟DOM等。有 **相关项目踩坑（发现问题）脱坑（解决问题）**的经验。
 
-## 项目经历
-[在线简历编辑器](https://shaozhiyuan.github.io/resume/dist/index.html#/)
+- 熟悉**HTTP**协议及浏览器渲染原理，了解前端 **性能优化策略**。
 
-https://github.com/shaozhiyuan/resume
-> 简介：
+- 熟悉**Yarn & Npm & Git** ，熟悉Node.js，熟悉前后端数据交互的实现。
 
-> 此项目是使用Vue2.0-cli实现的一个简历在线的编辑功能。清新简洁的交互系统，方便的实时预览功能能让用户快速入门操作。
+- 熟悉**CMD&AMD**机制，熟悉**Webpack**打包，优化手段。
 
-> 技术架构：
-
-> 此项目为了深入实践，尽可能采用最新的版Vue.js以及Vuex+Webpack+Scss的技术生态，js上则使用es6语法，此外，将用户登入注册信息放在leancloud上，追求最佳实践
-
-> 瑕疵：由于项目性质，完美运行只能在1024-1440的分辨率上
-
-> 项目收获：
-
-> vue.js以及vuex、scss的深入实践，以及es6的进一步理解，
-
-[todoList](https://shaozhiyuan.github.io/react/build/index.html)
-
-https://github.com/shaozhiyuan/react
-
-> 简介：
-
-> 该项目是一个轻量级单页在线待办事项管理应用，支持注册登录，支持增删改查，数据库同步等基本功能。
-
-> 技术架构：
-
-> 采用react组件开发，leancloud进行数据存储。技术栈为react+webpack+yarn+es6
-
-> 遇到问题：由于第一次使用React开发项目，因此React经验欠缺，开始组件编写缺乏规范，后来对深入React知识的深入，对组件进行了比较规范的重构
-
-> 项目收获：
-
-> 基本了解了React.js的开发项目方式，redux基本的运行方式。
-
-[Node.js便利贴](https://github.com/shaozhiyuan/node/tree/master/express-sticky-note)
-
-> 简介：该项目是一个基于 nodejs 的单页应用项目，支持 github 登入，增删改查，数据同步，自动瀑布流排版、鼠标移动等功能。
-
-> 技术架构:前端上采用 js 组件封装+发布订阅模式+webpack+less，后端则使用nodejs+express+sequelize+路由+中间件。
-
-> 项目收获：基本理解前后端交互过程，对中间件开发有了新一层理解
-
-[todoList Vue版](https://github.com/shaozhiyuan/vuetodo)
-
-> 技术架构：Vue + webpack +es6
-
-> 项目收获：这是我第一次使用Vue开发项目，基本了解Vue.js的项目开发方式。
-
-[企业站实现](https://shaozhiyuan.github.io/blog/%E4%BC%81%E4%B8%9A%E5%AE%9E%E6%88%98.html)
-
-> 简介：一个使用webapck模块化开发的个人企业占站
-
-> 问题：ajax获取的后端数据是http协议，无法在https下获取
-
-> 项目收获：了解企业站开发模式，webpack模块化管理代码
-
-插件：
-
-> [轮播](https://shaozhiyuan.github.io/blog/carousel.html) https://github.com/shaozhiyuan/blog/blob/master/carousel.html
+- 追求**风格优雅**，**整洁**的代码。
 
 
->  [木桶流布局](https://shaozhiyuan.github.io/blog/Casklayout.html)  https://github.com/shaozhiyuan/blog/blob/master/Casklayout.html
+## 个人项目
 
->  [瀑布流布局](https://shaozhiyuan.github.io/blog/Waterfalllayout.html) https://github.com/shaozhiyuan/blog/blob/master/Waterfalllayout.html
+### My-FM 音乐播放器
 
->  [懒加载](https://shaozhiyuan.github.io/blog/Lazyload.html) https://github.com/shaozhiyuan/blog/blob/master/Lazyload.html
+![image](./img/myfm.png)
 
-## 技能描述
+- [在线预览](https://risingsbj.github.io/My-FM/)
 
-1.熟悉HTML、CSS、页面架构和布局，对Web标准和标签语义化有深入理解
+- [Github源码](https://github.com/Risingsbj/My-FM)
 
-2.熟悉掌握原生Javascript，掌握重要概念如： 原型， 闭包， 作用域链， 面向对象， 异步流程控制等。能够根据面向对象思想利用JS/jQuery 封装 常用插件。 熟悉ES6语法。
+- 项目简介：一个在线音乐播放器，利用开放音乐API，可在线播放音乐，进行播放、暂停、下一曲、调节音量、跳转播放进度等操作，还可以将当前音乐添加到本地的“喜爱音乐”列表，也可切换播放频道，在播放音乐时歌词根据播放进度自动滚动。
 
-3.了解及HTML5新标签及CSS3样式及动画
+- 实现方式：运用原生JS，实现歌词滚动，单曲循环，下一首等功能；JQuery Ajax的Jsonp获取数据，根据接口数据将歌词的时间做间隔，歌词滚动；通过歌曲长度的百分比来对歌曲进行快进；歌曲时间转格式；原生CSS写基本样式,支持移动端。
 
-4.熟悉并能使用Scss，less和Stylus，postcss预处理器编写前端样式
+- 涉及技术： 使用 HTML5、jQuery 实现 FM 应用，利用 Ajax 技术通过API请求数据。
 
-5.熟悉Vue,熟悉其相应响应式原理，生命周期，组件通信，虚拟DOM。
+--- 
 
-6.了解React,redux，生命周期，可以进行一些简单的小规模项目开发。
+### ToDoList-单页在线Todo应用
 
-7.能够使用Webpack、gulp、requirejs前端构建工具搭建前端开发环境
+![image](./img/todolist.png)
 
-8.熟悉 Yarn & Npm & Git ，能够使用 Node.js 搭配 Express 进行基本后台开发。
+- [在线预览](https://risingsbj.github.io/react2/build/index.html)
 
-9.了解掌握浏览器的调试，可快速寻找bug, 面向Google及Stack Overflow编程 :)。
+- [Github源码](https://github.com/Risingsbj/react2)
 
-10.熟悉使用ps.AI等UI工具，能很好的和UI进行沟通及对像素的精确体现。
+- 项目简介：ToDoList是一个轻量级单页在线待办事项管理应用，支持注册，支持增删改查，云同步，视图切换，事项分类等功能。
 
-11.了解移动端开发与微信小程序开发。
+- 实现方式：将组件逐一细分，尽量做到每一块都是一个独立的组建，方便日后修改，将状态放在顶层APP，通过props分发给子组件，通过state来管理数据状态，在渲染时，通过过滤筛选函数，把todoitem筛选然后渲染到页面；通过路由实现单页面的路由跳转，最后将账号密码部署到LeanCloud,并参考文档，增添邮箱找回密码。
 
-12.有解决问题、钻研新技术的兴趣和能力，善于交流和表达
+- 涉及技术： 整个应用基于 React 框架和 LeanCloud搭建，用到了原生JavaScript和 ES6 等相关技术。
+
+---
+
+### 组件化商业首页
+
+![image](./img/web.jpg)
+
+- [在线预览](https://risingsbj.github.io/requireJS-webpack-sample/webpack_sample/index.html)
+
+- [Github源码](https://github.com/Risingsbj/requireJS-webpack-sample)
+
+- 项目简介：这个项目是对组件封装以及代码打包的实践。
+- 实现方式：组件包括轮播、Tab跟踪、AJAX封装、JSONP封装、无限加载、懒加载、回到顶部。由于涉及较多dom操作，选择使用jQuery提高开发效率。
+- 整体页面使用webpack打包，也使用了requireJS作为对比，理解CMD&AMD差异。
+- **查看更多封装组件和demo：** [我是链接](https://github.com/Risingsbj/Learning-box)。
+
+---
+
+### 一些 Node.js 小程序
+##### weather-hunger
+
+![image](./img/weather.png)
+
+- [Github源码](https://github.com/Risingsbj/weather-hunger)
+
+- [npm](https://www.npmjs.com/package/weather-hunger)
+
+- 简单介绍： 它是一个实用的node命令行工具。
+
+- 用npm全局安装后可以输入weather或weather+地名，查询用户当前所在城市的天气。
+
+##### funny-robot
+
+![image](./img/funny-robot.png)
+
+- [Github源码](https://github.com/Risingsbj/funny-robot)
+
+- [npm](https://www.npmjs.com/package/funny-robot)
+
+- 简单介绍： 一个有趣的聊天机器人。
+
+- 使用nodejs官方readline模块和http模块进行命令行交互，结合 [图灵api](http://wap.tuling123.com/help/h_cent_webapi.jhtml?nav=doc)实现的一个有趣的机器人，发布到npm。
 
 ## 关于我
-喜欢学习新技术，对技术保持高涨的热情，能够突破大脑舒适区。
+- **思维灵活发散**，**强大的自我驱动能力**。
 
-自学能力强，具备独立分析问题，解决问题的能力，能够自我进步。
+- 在独立项目开发过程中体现出优秀的新技术学习、问题分析解决能力。 
 
-在项目开发过程中，具有较强的总结能力。
+- 寻找**技术驱动**，**成长空间良好**的团队，投入实践迅速提升自身技术素养的同时， 
+为团队贡献可观的力量，成为**中流砥柱**，便是我的追求。
 
-有团队精神和集体荣誉感，能快速融入团队；
+![image](./img/weixin.png)
 
-有良好的沟通表达能力、演示能力、理解能力及逻辑思维，能快速学习相关行业知识；

@@ -10,7 +10,7 @@
  - 微信： Rising-sun2016 
  - 期望职位：前端工程师
  - 期望城市：北京
- - Github：https://github.com/Risingsbj
+ - Github：[https://github.com/Risingsbj](https://github.com/Risingsbj)
  - [个人博客](http://www.jianshu.com/u/0135bff4a7eb)
 
 ## 技能

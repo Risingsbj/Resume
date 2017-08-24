@@ -7,10 +7,8 @@
  - 年龄：22
  - 手机：18175388665
  - Email：243281121@qq.com
- - 微信： Rising-sun2016
  - 期望职位：前端工程师
  - 期望城市：北京
- - 前端经验：1.5年
  - Github：[https://github.com/Risingsbj](https://github.com/Risingsbj)
  - [个人博客](http://www.jianshu.com/u/0135bff4a7eb)
 
